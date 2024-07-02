@@ -5,7 +5,8 @@ baseurl:      "/edge-llm-challenge.github.io"
 paginate:     1
 locale:       "en"
 
-theme: "Midnight"
+# theme: "Midnight"
+remote_theme: hydecorp/hydejack
 
 # About/contact
 author:
