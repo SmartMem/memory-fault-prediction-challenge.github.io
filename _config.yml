@@ -1,7 +1,7 @@
 # Setup
 title:        Edge-Device Large Language Model Competition
 description: NeurIPS 2024 Challenge
-baseurl:      "/edge-llm-challenge-pic.github.io"
+baseurl:      "/memory-fault-prediction-challenge.github.io"
 paginate:     1
 locale:       "en"
 
