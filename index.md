@@ -7,7 +7,20 @@ layout: default
 # Motivation
 
 <p style='text-align: justify;'>
-The rapid advancements in artificial intelligence, particularly in the domain of Natural Language Processing (NLP) propelled by Large Language Models (LLMs), have underscored the transformative potential of these models in influencing modern modes of work and communication. Consequently, integrating LLMs into edge devices, including smartphones, IoT devices, and in-car systems, holds significant promise within contemporary computing ecosystems. However, the massive size of LLMs presents challenges for edge devices, which typically operate with constrained resources. For instance, deploying a modest 10B LLM can demand up to 20GB of main memory (DRAM), even after quantization, a capacity that surpasses the available memory in most commodity smartphones. For example, the HUAWAI P60 boasts an 8GB DRAM capacity, and the iPhone 15 offers a 6GB DRAM. Given that DRAM is shared among the operating system and other applications, mobile apps must not exceed 10% of the DRAM allocation. Additionally, the energy consumption of LLMs presents a big barrier, with a fully charged smartphone, boasting approximately 50 kJ of energy, capable of sustaining a 7B LLM conversation for less than 2 hours at a rate of 10 tokens per second. </p>
+Memory uncorrectable Errors (UEs) have been identified as a major failure cause in
+data centers, which highly threaten the availability and reliability of the server and
+even the entire computing clusters. Forecasting UEs before enacting preemptive
+maintenance measures has emerged as a viable strategy for diminishing server outages
+and some machine learning based solution have also been proposed. However,
+the UEs prediction presents several challenges: data noise and extremely imbalance
+as the UEs are exceedingly rare in memory events; heterogeneous data sources
+as the DRAMs in the field come from different manufacturing or architecture
+platforms; distribution shifts due to the hardware aging; and latent factors due to
+the dynamic access mechanism. We cure a real-world DRAM error dataset that
+contains both micro and bit information and present a two-stage challenge for more
+efficient and generalized event prediction solution. We believe the competition will
+provide a breeding ground to foster discussions and further progress on several
+important research topics towards real-world ML applications. </p>
 
 <p style='text-align: justify;'>
 This challenge aims to push forward the boundaries of what these powerful LLMs can achieve on edge devices in terms of performance, efficiency, and versatility. Specifically, it targets to deploy LLMs on edge devices in resource-bounded scenarios and address the following major issues:</p>
