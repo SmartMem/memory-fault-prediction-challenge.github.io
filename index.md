@@ -23,19 +23,49 @@ provide a breeding ground to foster discussions and further progress on several
 important research topics towards real-world ML applications. </p>
 
 <p style='text-align: justify;'>
-This challenge aims to push forward the boundaries of what these powerful LLMs can achieve on edge devices in terms of performance, efficiency, and versatility. Specifically, it targets to deploy LLMs on edge devices in resource-bounded scenarios and address the following major issues:</p>
+While adapting machine learning models to UE prediction tasks have gained increasing
+interest in both the machine learning and computer architecture community, improving the UEs
+prediction is widely recognized as a challenging problem.</p>
 
-1. <b>Vast amounts of memory requirements</b>: LLM inference typically requires a significant amount of memory, a major bottleneck for off-the-shelf smartphones. Even high-end smartphones with 8GB are not sufficient for a sophisticated LLM.
-2. <b>Prohibitive energy consumption</b>: the significant energy consumption during LLM inference presents a challenge to the battery life of smartphones.
-3. <b>Large performance loss</b>: state-of-the-art LLMs might require unusually high compression ratios to fit into the memory of edge devices. Such extremely high compression ratios will significantly challenge the efficacy of existing model compression techniques, where we usually see a substantial performance drop after certain high levels of compression ratios. Therefore, achieving such high compression ratios while maintaining reasonable performance is very challenging.
-4. <b>Lack of offline functionality</b>: Most off-the-shelf LLMs necessitate internet connections, which limits their usage in remote areas or in situations where internet access may be intermittent.
+1. <b>First</b>: CEs are demonstrated as informative to UEs prediction, but the memory failure is coupled by the unclear uncorrectable patterns as well as the data access mechanism. A fault only manifests in failure if the faulty location is accessed.
+2. <b>Second</b>: UEs are exceedingly rare in memory events. This rarity renders machine learning
+methods highly vulnerable to imbalanced data, leading to high false positives and low recall rates.
+3. <b>Third</b>:memory data is inherently noisy and heterogeneous as the hardware comes from different
+manufacturers (e.g.Samsung, Hynix, Micron) and is deployed in diverse operational environments. Missing data is also inevitable in data collection or transmission.
+4. <b>Forth</b>: predicting UEs necessitates
+addressing the complex spatial and temporal variations within memory architecture, particularly
+given hardware degradation throughout its operational lifecycle.
+5. <b>Fifth</b>: the chips in the field always
+come across different architectures or generations, showing distinct characteristics in both error rate
+and uncorrectable pattern.
+5. <b>Last but not the least</b>: there is no large-scale dataset specifically focusing
+on CE information in DQ and beat level for UE predictions publically available due to privacy issues.
 
-# Potential impact
+# Targets
 
 <p style='text-align: justify;'>
-This competition aims to generate impacts in science, economics, and society. Scientifically, it may inspire new algorithms and optimizations for LLMs on edge devices, encourage interdisciplinary research, and involve more university experts studying LLMs despite limited resources. Economically, it could reduce energy costs, save on network bandwidth, cloud fees, and data transmission expenses, thus improving affordability and accessibility of LLM applications. Socially, the competition may tackle issues like digital inclusion, privacy, and sustainability by developing solutions promoting accessibility, privacy via on-device processing, and lower carbon footprint due to reduced reliance on centralized cloud infrastructure. By leveraging edge computing and LLMs, competition solutions have the potential to drive positive social change, promote equity, and address the needs of underrepresented communities. </p>
+Our competition will furnish participants with a dataset comprising memory system
+configurations, memory error logs, and failure tags to devise solutions for predicting potential failures
+of individual DRAM modules within a subsequent observation period. The competition comprises
+two stages: the initial stage features an AB List setup, which includes training data tailored for two
+diverse memory models. Subsequently, in the second stage, a fresh dataset encompassing mixed
+models (more than two) will be introduced to encourage solutions with few-shot learning capabilities
+and knowledge transfer ability. Overall, the competition’s appeal lies in its practical relevance, the
+accessible entry point of the initial stage, and the fresh challenges presented in both stages. </p>
 
-# Scope
+# Impact
 
 <p style='text-align: justify;'>
-This competition encourages researchers, practitioners, and industry professionals from a wide range of fields to participate if they are interested in co-designing systems, hardware, and algorithms to enable high-performing LLMs on edge devices, unlocking new possibilities for various industries and use cases. </p>
+Datacenter RAS is important to both industry and society in the era of artificial intelligence. However,
+the intelligent memory failure prediction is still barely satisfactory due to the complexity of the
+problem, lack of publically available large-scale datasets, well-defined tasks and evaluation procedures.
+As a failure prediction from real-world scenarios with large, complex, and inflexible present explicit
+information, this competition will increase the access and usability of solving important problems in
+the cloud computing industries. In addition, the new competition will kick-start the development of
+novel feature extraction, spatial-temporal pattern mining, and representation learning techniques for
+event prediction. Novel methods and ideas proposed for this competition will also be transferable to
+similar tasks in which a set of declarative specifications need to be precisely extracted from given
+technical descriptions. We believe the competition will provide a breeding ground to foster discussions
+and further research on several important research topics towards real-world ML applications, such
+as distribution shifts, data imbalance, table representation learning, causal representation learning
+and etc. </p>
