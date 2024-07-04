@@ -4,7 +4,7 @@ layout: default
 
 # Rules
 
-# Protocol
+## Protocol
 
 <p style='text-align: justify;'>
 We will consider using and will conduct beta testing of fully fledged platforms such as Codalab or Huawei Cloud Competition for hosting the competition. Alternatively, we may use online forms on the website for registration and submissions. Participants will follow the outlined steps to register for the competition:
@@ -24,3 +24,5 @@ Registered participants will need to include the following in their submission:
 Please note that the above submission process might slightly change if we can test and successfully adopt of competition platform.
 <p style='text-align: justify;'>
 To prevent cheating, we will keep the test set confidential before, during and after the competition is finished. We will also review every potentially winning submission to check for cheating.
+
+## Protocol
