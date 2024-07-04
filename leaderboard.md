@@ -5,6 +5,11 @@ layout: default
 # Winners 🏆
 <table class="foo">
     <tr>
+        <td width="30%"><b>Rank</b></td>
+        <td width="30%"><b>Score</b></td>
+        <td width="40%"><b>Team</b></td>
+    </tr>
+    <tr>
         <td width="30%"><b>1 🏆</b></td>
         <td width="30%">0.9890</td>
         <td width="40%">SmartMemA</td>
