@@ -4,28 +4,21 @@ layout: default
 
 # Organizers
 
-<!-- * Shiwei Liu
-* Kai Han
-* Adriana Fernandez-Lopez
-* Ajay Jaiswal
-* Zahra Atashgahi
-* Boqian Wu
-* Rebekka Burkholz
-* Edoardo M. Ponti
-* Cong Hao
-* Olga Saukh
-* Lu Yin
-* Tianjin Huang
-* Andreas Zinonos
-* Jared Tanner
-* Yunhe Wang -->
+<!-- * Zhenli Sheng
+* Min Zhou
+* Qiao Yu
+* Jialiang Yu
+* Wengui Zhang
+* Jorge Cardoso
+* Xuetong Hao
+* JieWang -->
 
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
         <td style="text-align: center; border: none;">
-        <figure><img src="assets/shiwei_liu.jpg" height="150"><figcaption>Shiwei Liu, University of Oxford</figcaption></figure></td>
-        <td style="text-align: center; border: none;"><figure><img src="assets/kai_han.jpeg" height="150"><figcaption>Kai Han, Huawei Noah’s Ark Lab</figcaption></figure></td>
-        <td style="text-align: center; border: none;"><figure><img src="assets/adriana.jpg" height="150"><figcaption>Adriana Fernandez-Lopez, Meta AI</figcaption></figure></td>
+        <figure><img src="assets/shengzhenli.png" height="150"><figcaption>Zhenli Sheng, Huawei Cloud Computing Co.Ltd</figcaption></figure></td>
+        <td style="text-align: center; border: none;"><figure><img src="assets/zhoumin.png" height="150"><figcaption>Min Zhou, Huawei Cloud Computing Co.Ltd</figcaption></figure></td>
+        <td style="text-align: center; border: none;"><figure><img src="assets/qiaoyu.png" height="150"><figcaption>Qiao Yu, TU Berlin</figcaption></figure></td>
     </tr> 
     <tr>
         <td style="text-align: center; border: none;">
