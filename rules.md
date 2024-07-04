@@ -4,13 +4,30 @@ layout: default
 
 # Rules
 
-The rules of this competition aim to ensure fair evaluation and reproducible results. To this end, we require the following:
+# Protocol
 
-* <p style='text-align: justify;'>Each team is limited to a maximum of five members. Teams must self-certify that no team member is participating in multiple teams for this competition. 
-* <p style='text-align: justify;'>All teams are encouraged to submit their models for a preliminary review. After the review deadline, only three submissions are allowed for each team and the best-performing model will be used to rank the team.
-* <p style='text-align: justify;'>The use of exclusively C4 and Alpaca datasets is permitted for participation in this competition. The utilization of data or content that violates service agreements or proprietary information of any entity is strictly prohibited. Submissions must refrain from employing any copyrighted or proprietary data, code, or closed-source content. 
-* <p style='text-align: justify;'>All submissions must ensure full reproducibility. The top three teams in each track category, with the highest scoring models, are mandated to provide all essential code and data required for replicating their model. Their submissions must be open-sourced and made publicly accessible after the competition.
-* <p style='text-align: justify;'>It is not allowed to mix submissions across tracks. Models compressed from pre-trained LLMs cannot be submitted to the training-from-the-scratch track, and vice versa.
-* <p style='text-align: justify;'>This competition will be run under the honour system. Teams that submit very similar results or copy another team’s solution will be disqualified. Violating the spirit of the honour system or taking unfair advantage of the community, even when not against an explicit rule, may result in disqualification and ineligibility for prizes.
-* <p style='text-align: justify;'>Competition participants can communicate with the organizers to ask questions via various ways such as emails, GitHub issues, and Discord channels. Any updates to rules or deadlines will be timely demonstrated on our website and communicated through our Discord channels.
-* <p style='text-align: justify;'>Organizers, volunteers and advisors associated with the competition are not allowed to participate.
+<p style='text-align: justify;'>
+We will consider using and will conduct beta testing of fully fledged platforms such as Codalab or
+Huawei Cloud Competition for hosting the competition. Alternatively, we may use online forms on
+the website for registration and submissions. Participants will follow the outlined steps to register for
+the competition:
+
+* <p style='text-align: justify;'>The participants register on the website by entering their team name, email address, and
+affiliations using a form. Then, they receive an ID code to identify their submissions. 
+* <p style='text-align: justify;'>During registration process, the participant is asked to agree to abide by the rules of the
+competition.
+* <p style='text-align: justify;'>The participant can download the starter kit and the dataset from given repository and
+download links and follow the Tutorial notebook to learn about the dataset format, data
+readers, evaluation protocol and the details of the baseline models.
+<p style='text-align: justify;'>
+Registered participants will need to include the following in their submission:
+* <p style='text-align: justify;'>Same ID code given after registration to identify their multiple submissions
+* <p style='text-align: justify;'>A Poetry configuration to manage the participant’s Python library dependencies in a deter-
+ministic way. We will give a template and tutorial to participants.
+* <p style='text-align: justify;'>A brief description of their method will required for the winning submissions.
+<p style='text-align: justify;'>
+Please note that the above submission process might slightly change if we can test and successfully
+adopt of competition platform.
+<p style='text-align: justify;'>
+To prevent cheating, we will keep the test set confidential before, during and after the competition is
+finished. We will also review every potentially winning submission to check for cheating.
