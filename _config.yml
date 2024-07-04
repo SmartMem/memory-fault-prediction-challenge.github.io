@@ -1,6 +1,6 @@
 # Setup
-title:        Edge-Device Large Language Model Competition
-description: NeurIPS 2024 Challenge
+title:        Memory Fault Prediction Competition
+description:  ML For Systems 2024 Challenge
 baseurl:      "/memory-fault-prediction-challenge.github.io"
 paginate:     1
 locale:       "en"
@@ -13,7 +13,7 @@ locale:       "en"
 # About/contact
 author:
   #name:       Author name
-  url:       "https://wenguizhang.github.io" 
+  url:       "https://smartmem.github.io" 
 
 #Others
 navigation:
