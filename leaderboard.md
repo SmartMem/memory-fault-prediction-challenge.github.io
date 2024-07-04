@@ -3,18 +3,24 @@ layout: default
 ---
 
 # Winners 🏆
-| Team | Score | Rank |
-|---|:---:|:---|
-| Ajoo | 0.9890 | 1 🏆 | 
-| TeamQ | 0.9785 | 2 |
-| GuineaPig | 0.9386 | 3 |
-| PredMem | 0.8386 | 4 |
-| WhyFault | 0.7386 | 5 |
-| MemGET | 0.6386 | 6 |
-| TeamC | 0.5386 | 7 |
-| TeamD | 0.4386 | 8 |
-| TeamE | 0.3386 | 9 |
-| TeamF | 0.2386 | 10 |
+<table class="foo">
+    <tr>
+        <td width="30%"><b>1 🏆</b></td>
+        <td width="30%">0.9890</td>
+        <td width="40%">SmartMemA</td>
+    </tr>
+    <tr>
+        <td width="30%"><b>2</b></td>
+        <td width="30%">0.9785</td>
+        <td width="40%">TeamQ</td>
+    </tr>
+    <tr>
+        <td width="30%"><b>3</b></td>
+        <td width="30%">0.9386</td>
+        <td width="40%">GuineaPig</td>
+    </tr>
+</table>
+
 
 <!-- ### A100 track
 1. Percent_bfd: Ao Liu, Zizhen Huang, Jiabin Wang, Hao Lu, Qin Hu [Repo](https://github.com/Percent-BFD/neurips_submission)
