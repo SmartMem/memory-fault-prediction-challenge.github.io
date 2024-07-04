@@ -18,17 +18,17 @@ author:
 #Others
 navigation:
   Home: "index"
-  Challenge: "challenge"
+  # Challenge: "challenge"
   Rules: "rules"
   Timeline: "dates"
   Prizes: "prizes"
-  Starting Kit: "starter_kit"
+  # Starting Kit: "starter_kit"
   Registration: "registration"
-  Feedback: "feedback"
+  # Feedback: "feedback"
   Leaderboard: "leaderboard"
   Organizers: "organizers"
   #Advisors: "advisors"
-  Workshop: "schedule"
-  Sponsors: "sponsors"
+  # Workshop: "schedule"
+  # Sponsors: "sponsors"
   Q&A: "question"
 markdown: kramdown
