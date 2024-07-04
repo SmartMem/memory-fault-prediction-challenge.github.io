@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-<span style="display:block;text-align:center">![Alt text](assets/logo_smart_mem.jpg "Title")</span>
+<span style="display:block;text-align:center">![Alt text](assets/logosmartmem.png)</span>
 
 # Motivation
 
