@@ -20,7 +20,9 @@ competition.
 download links and follow the Tutorial notebook to learn about the dataset format, data
 readers, evaluation protocol and the details of the baseline models.
 <p style='text-align: justify;'>
+  
 Registered participants will need to include the following in their submission:
+  
 * <p style='text-align: justify;'>Same ID code given after registration to identify their multiple submissions
 * <p style='text-align: justify;'>A Poetry configuration to manage the participant’s Python library dependencies in a deter-
 ministic way. We will give a template and tutorial to participants.
