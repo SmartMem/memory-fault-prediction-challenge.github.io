@@ -69,3 +69,8 @@ technical descriptions. We believe the competition will provide a breeding groun
 and further research on several important research topics towards real-world ML applications, such
 as distribution shifts, data imbalance, table representation learning, causal representation learning
 and etc. </p>
+
+# Sponsors
+
+<span style="display:block;text-align:center">![Alt text](assets/huawai.jpeg "Title")</span>
+
