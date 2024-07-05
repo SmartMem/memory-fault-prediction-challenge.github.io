@@ -17,7 +17,7 @@ layout: default
     <tr>
         <td style="text-align: center; border: none;">
         <figure><img src="assets/zhoumin.png" height="150"><figcaption>Min Zhou, Huawei Cloud Computing Co.Ltd</figcaption></figure></td>
-        <td style="text-align: center; border: none;"><figure><img src="assets/qiaoyu.png" height="150"><figcaption>Qiao Yu, TU Berlin</figcaption></figure></td>
+        <td style="text-align: center; border: none;"><figure><img src="assets/qiao_yu.png" height="150"><figcaption>Qiao Yu, Technical University of Berlin</figcaption></figure></td>
         <td style="text-align: center; border: none;"><figure><img src="assets/yujialiang.png" height="150"><figcaption>Jialiang Yu, Huawei Cloud Computing Co.Ltd</figcaption></figure></td>
     </tr> 
     <tr>
