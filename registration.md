@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<!--
 # Competition Registration
 
 Please complete a registration form per team [competition form](https://forms.gle/djF4kBH4wiewnDmA6) as soon as possible, as it is mandatory to register before <b>the deadline of July 25th</b>. 
@@ -22,4 +23,4 @@ Volunteering for this competition is not only a chance to contribute to the comm
 The time and energy required to volunteer are substantial, but your contributions will be greatly appreciated. Your impact will be felt not only on the outcome of the competition but also on the lives of those involved.
 If you are passionate about making a difference and being part of something special, please consider joining us as a volunteer. Together, we can create an event that everyone will be proud of. </p>
 
-To apply, please visit our website and fill out the volunteer registration form - [Volunteer form](https://forms.gle/hkMoV1fF6MTajL9A6). Thank you for considering this opportunity, and we look forward to working with you.
+To apply, please visit our website and fill out the volunteer registration form - [Volunteer form](https://forms.gle/hkMoV1fF6MTajL9A6). Thank you for considering this opportunity, and we look forward to working with you.  --!>
