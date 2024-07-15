@@ -7,15 +7,11 @@ layout: default
 <table class="foo">
     <tr>
         <td width="50%"><b>Competition kickoff: the registration is opened and participants can download the starter kit and the training/validation datasets.</b></td>
-        <td width="50%">July 1st, 2024</td>
+        <td width="50%">Auguest 1st, 2024</td>
     </tr>
     <tr>
         <td width="50%"><b>We open the leaderboard and forum. We start accepting submissions.</b></td>
-        <td width="50%">July 15th, 2024</td>
-    </tr>
-    <tr>
-        <td width="50%"><b>Deadline for submission.</b></td>
-        <td width="50%">October 15th, 2024</td>
+        <td width="50%">Auguest 15th, 2024</td>
     </tr>
     <tr>
         <td width="50%"><b>Submission Deadline</b></td>
